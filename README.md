@@ -14,7 +14,7 @@ Please follow the procedure below:
   Step 4: Finally, you can start using it.  
 
 
-Note-1: This is an initial version which may contain numerous bugs.  
+Note-1: This is an initial version which may contain bugs.  
 
 Note-2: Please contact me promptly if you encounter any issues.
 
